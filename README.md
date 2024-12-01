@@ -7,10 +7,7 @@ This repository contains a Jupyter notebook that processes influencer video data
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Data Sources](#data-sources)
-- [Results](#results)
-- [License](#license)
+
 
 ## Overview
 
